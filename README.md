@@ -50,5 +50,6 @@ en un navegador escribir la siguiente URL
 ```
 http://localhost/prueba_xolit/
 ```
-el inicio le pedira un usuario y clave estas seran entregadas por el correo de la prueba
 
+el inicio le pedira un usuario y clave estas seran entregadas por el correo de la prueba
+![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/importar-2.PNG)
