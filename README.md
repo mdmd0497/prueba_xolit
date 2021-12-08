@@ -27,6 +27,21 @@ mv prueba_xolit C:\xampp\htdocs
 
 una vez ubicado el archivo en la carpeta htdocs ejecutamos xampp
 
+##importar base de datos
+ingresar a la siguiente URL una vez ejecutado XAMPP
+```
+http://localhost
+```
+una vez hecho esto debe crear la base de datos con el nombre **empresa**
+![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/empresa-modelo.PNG)
+luego de esto nos ubicamos en la base de datos **empresa**
+![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/empresa-modelo.PNG)
+seguido de ello importamos la base de datos que se encuentra en la ruta
+```
+C:\xampp\htdocs\prueba_xolit\persistence\empresa.sql
+```
+con esto finalizamos la importación de la base de datos
+
 ## Correr el proyecto
 en un navegador escribir la siguiente URL
 ```
