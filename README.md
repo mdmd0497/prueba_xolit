@@ -7,6 +7,9 @@ Desarrollar el modelo de base de datos acorde a la descripción anterior
 Utilizando el patrón MVC (Modelo Vista Controlador), desarrollar un CRUD para agregar
 nuevas áreas, nuevos cargos y agregar y editar empleados evidenciando el uso de POO.
 
+## Modelo de base de datos
+
+![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/empresa-modelo.PNG)
 ## Descargar:
 Para la ejecución de la prueba debe tener previamente instalado XAMPP para ubicar el archivo a descargar
 
