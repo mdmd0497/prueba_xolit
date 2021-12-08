@@ -27,7 +27,7 @@ mv prueba_xolit C:\xampp\htdocs
 
 una vez ubicado el archivo en la carpeta htdocs ejecutamos xampp
 
-##importar base de datos
+## importar base de datos
 ingresar a la siguiente URL una vez ejecutado XAMPP
 ```
 http://localhost
