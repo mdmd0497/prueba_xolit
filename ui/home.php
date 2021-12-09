@@ -84,9 +84,9 @@ if(isset($_POST['logIn'])){
 						} else if ($logInError){
 							echo "<div class='alert alert-danger' >Error de correo o clave</div>";
 						} ?>
-						<div class="form-group">
+						<!-- <div class="form-group">
 							<a href="index.php?pid=<?php echo base64_encode("ui/recoverPassword.php") ?>">Recuperar Clave</a>
-						</div>
+						</div> -->
 						<div class="form-group">
 							<button type="submit" class="btn btn-info" name="logIn">Autenticar</button>
 						</div>
