@@ -12,7 +12,7 @@ nuevas áreas, nuevos cargos y agregar y editar empleados evidenciando el uso de
 ![Image text](https://github.com/mdmd0497/prueba_xolit/blob/master/empresa-modelo.PNG)
 ## Descargar:
 Para la ejecución de la prueba debe tener previamente instalado XAMPP para ubicar el archivo a descargar.
-Tenga en cuenta que el proyecto fue desarrollado en PHP Version PHP 7.3.28, por lo que la version de xampp debe estar con PHP version 7
+Tenga en cuenta que el proyecto fue desarrollado en **PHP Version PHP 7.3.28**, por lo que la version de xampp debe estar con **PHP version 7**
 ```
 https://github.com/mdmd0497/prueba_xolit.git
 ```
