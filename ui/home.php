@@ -35,7 +35,7 @@ if(isset($_POST['logIn'])){
 		}
 		$empleado = new Empleado();
 		if($empleado -> logIn($email, $password)){
-			if($empleado -> getEstado()==1){
+			if($empleado -> getState()==1){
 				$_SESSION['id']=$empleado -> getIdEmpleado();
 				$_SESSION['entity']="Empleado";
 				$logEmpleado = new LogEmpleado("", "Log In", "", date("Y-m-d"), date("H:i:s"), $user_ip, PHP_OS, $browser, $empleado -> getIdEmpleado());
